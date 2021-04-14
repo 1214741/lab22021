@@ -1,4 +1,5 @@
-# lab22021Implementation of a Simple Calculator with the next operations:
+# lab22021
+# Implementation of a Simple Calculator with the next operations:
 
 * Add
 * Minus
